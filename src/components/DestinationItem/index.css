@@ -1,0 +1,12 @@
+.image {
+  height: 150px;
+}
+.heading1 {
+  font-family: 'Roboto';
+  font-size: 16px;
+  color: #252627;
+}
+.list-container {
+  margin: 15px;
+  list-style-type: none;
+}

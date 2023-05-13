@@ -1,0 +1,42 @@
+.bg-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.heading {
+  font-family: 'Roboto';
+  color: #000000;
+  font-weight: bold;
+  font-size: 35px;
+  padding-bottom: 5px;
+}
+
+.searchIcon {
+  height: 25px;
+  width: 25px;
+}
+
+.inputElement {
+  height: 30px;
+  background-color: #f1f5f9;
+  border-width: 0px;
+  border-radius: 8px;
+}
+.search-container {
+  display: flex;
+  background-color: #f1f5f9;
+  border-radius: 8px;
+  padding: 7px;
+}
+
+.main-container {
+  width: 90%;
+}
+.main-container1 {
+  width: 45%;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+}
